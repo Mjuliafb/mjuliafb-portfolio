@@ -149,7 +149,6 @@ figure img {
     -webkit-transition: -webkit-transform 0.4s;
     transition: -webkit-transform 0.4s;
     transition: transform 0.4s,
-        transition: transform 0.4s, -webkit-transform 0.4s;
 }
 
 .projectBox {
@@ -174,6 +173,10 @@ figure img {
 
 .btnOddi:hover {
     color: #0583f2 !important;
+}
+
+.btnMaillard{
+    border-color: white !important;
 }
 
 .textIntContact {
