@@ -175,3 +175,11 @@ figure img {
 .btnOddi:hover {
     color:#0583f2 !important;
 }
+
+.textIntContact {
+    background-color: #100459;
+    color:aliceblue;
+}
+.btnCalendly {
+    width: 150px;
+}
