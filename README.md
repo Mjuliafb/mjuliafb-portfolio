@@ -6,13 +6,14 @@
 
 1. **Instagram photofeed: **
    - Feed de instagram con variable de visualizacion de fotos.
-   - HTML , CSS , BOOSTRAP.
+   - HTML , CSS , Bootstrap.
    - [Enlace al repositorio.](https://github.com/Mjuliafb/Mjuliafb-InstagramPhotoFeedWithBootstrap)
 
 2. **Proyecto ODDI:**
    - Proyecto de plantillas estructuradas para el área dental.
-   - React, MongoDB, Tailwind, Node.js
+   - HTML, CSS, React, MongoDB, Tailwind, Node.js.
    - [Enlace al repositorio.](https://github.com/orgs/Dentmedia-oddi/repositories)
+   - [Enlace website:](https://www.oddi.es/)
   
 3. **Bold easy reader:**
    - Converto de texto para mejorar la concentración.
