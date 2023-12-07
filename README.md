@@ -7,7 +7,7 @@
 1. **Instagram photofeed: **
    - Feed de instagram con variable de visualizacion de fotos.
    - HTML , CSS , BOOSTRAP.
-   - [[Enlace al repositorio.](https://github.com/Mjuliafb/Mjuliafb-InstagramPhotoFeedWithBootstrap)]
+   - [Enlace al repositorio.](https://github.com/Mjuliafb/Mjuliafb-InstagramPhotoFeedWithBootstrap)
 
 2. **Proyecto ODDI:**
    - Proyecto de plantillas estructuradas para el área dental.
@@ -27,7 +27,7 @@ Ve todos mis proyectos aquí: [Link Portfolio]
 - **[10/2023]:** HTML
 - **[11/2023]:** HTML + CSS + BOOTSTRAP
 - **[12/2023]:** HTML + CSS + BOOTSTRAP + JS
-- **[Next]** -> MORE JS + DOM + REACT...
+- **[Próximamente]** -> MORE JS + DOM + REACT...
 
 ## 🛠️ Tecnologías y Herramientas
 
