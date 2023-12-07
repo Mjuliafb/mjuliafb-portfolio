@@ -1,4 +1,4 @@
-# Maria Julia F. - Desarrollador Full Stack
+# Maria Julia F. - Desarrolladora Full Stack
 
 ¡Hola! Soy MJ, un entusiasta desarrolladora Full Stack en formación, actualmente estudiando en 4Geeks Academy. Este repositorio contiene mi portafolio en línea, donde comparto mi viaje de aprendizaje y destacar algunos de los proyectos en los que he trabajado.
 
