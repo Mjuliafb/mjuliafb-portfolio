@@ -214,3 +214,25 @@ figure img {
     padding-bottom: 0.3em;
     text-decoration: none;
 }
+
+blockquote {
+    border-left:none
+}
+
+.quote-badge {
+    background-color: #000000;
+    background-color: rgba(0, 0, 0, 0.2);   
+}
+
+.blockquote {
+    
+    overflow: hidden;
+    background-color:#100459;
+    color: white;
+    box-shadow: 2px 2px 2px 2px #E0E0E0;
+    height: 80px;
+    align-items: center;
+    align-content: center;
+    line-height: 1.5;
+}
+
