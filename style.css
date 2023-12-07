@@ -1,23 +1,27 @@
-.parallaxImgHeader{
+.parallaxImgHeader {
     background-image: url(asset/fondoheader2.jpg);
-	background-attachment: fixed;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size:  cover;
-	height:30rem;
-	max-width: 100%;
-	position: relative
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    max-width: 100%;
+    position: relative
 }
 
-.internalText{
-	color:#fff;
-	font-size: 2rem;
-	font-weight: bold;
-	left: 10%;
-	position: absolute;
-	text-align: center;
-	top:40%;
-	width: 80%
+.internalText {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bold;
+    left: 10%;
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    width: 80%
 }
 
-
+.parallax .parallaxImgHeader h2 span {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 3rem;
+}
