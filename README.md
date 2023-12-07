@@ -1,4 +1,4 @@
-# Maria Julia F. - Desarrollador Full Stack
+# Maria Julia F. - Desarrolladora Full Stack
 
 ¡Hola! Soy MJ, un entusiasta desarrolladora Full Stack en formación, actualmente estudiando en 4Geeks Academy. Este repositorio contiene mi portafolio en línea, donde comparto mi viaje de aprendizaje y destacar algunos de los proyectos en los que he trabajado.
 
@@ -16,7 +16,7 @@
    - [Enlace website](https://www.oddi.es/)
   
 3. **Bold easy reader:**
-   - Converto de texto para mejorar la concentración.
+   - Convertor de texto para mejorar la concentración.
    - HTML, CSS, JS.
    - [Enlace a la versión en vivo.](https://bold-easy-reader-7m9kycfxz.vercel.app/)
   
