@@ -4,7 +4,7 @@
 
 ## 🚀 Proyectos Destacados
 
-1. **Instagram photofeed: **
+1. **Instagram photofeed:**
    - Feed de instagram con variable de visualizacion de fotos.
    - HTML , CSS , Bootstrap.
    - [Enlace al repositorio.](https://github.com/Mjuliafb/Mjuliafb-InstagramPhotoFeedWithBootstrap)
@@ -13,7 +13,7 @@
    - Proyecto de plantillas estructuradas para el área dental.
    - HTML, CSS, React, MongoDB, Tailwind, Node.js.
    - [Enlace al repositorio.](https://github.com/orgs/Dentmedia-oddi/repositories)
-   - [Enlace website:](https://www.oddi.es/)
+   - [Enlace website](https://www.oddi.es/)
   
 3. **Bold easy reader:**
    - Converto de texto para mejorar la concentración.
