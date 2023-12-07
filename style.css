@@ -35,3 +35,14 @@
     width: 30px; 
     height: 30px; 
 }
+
+.imgParagraph{
+    width: 200px; 
+    height: auto;
+    margin-right: 10px; 
+}
+
+.pinkSpan {
+    color: #f2059f;
+    font-weight: 600;
+}
