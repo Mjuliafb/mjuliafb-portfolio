@@ -16,7 +16,7 @@
    - [Enlace website](https://www.oddi.es/)
   
 3. **Bold easy reader:**
-   - Converto de texto para mejorar la concentración.
+   - Convertor de texto para mejorar la concentración.
    - HTML, CSS, JS.
    - [Enlace a la versión en vivo.](https://bold-easy-reader-7m9kycfxz.vercel.app/)
   
