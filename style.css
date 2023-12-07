@@ -25,3 +25,13 @@
     font-weight: 700;
     font-size: 3rem;
 }
+
+.technologies .technologiesLearned .card img {
+    width: 30px; 
+    height: 30px; 
+}
+
+.technologies .futureTechnologies .card img {
+    width: 30px; 
+    height: 30px; 
+}
