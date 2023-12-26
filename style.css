@@ -1,11 +1,15 @@
 #canvas-shapes {
     height: 30rem;
-    max-width: 100%;
-    display: block;
+    max-width: 100%; 
+    width: auto;
     background-position: center;
-    margin-right: 54.5px;
-    margin-left:54.5px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
+
 .parallaxImgHeader {
     background-image: url(asset/fondoheader2.jpg);
     background-attachment: fixed;
@@ -13,6 +17,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 30rem;
+    width: auto;
     max-width: 100%;
     position: relative;
     mix-blend-mode: screen;
@@ -24,7 +29,7 @@
     font-size: 2rem;
     font-weight: bold;
     left: 10%;
-    position: absolute;
+    position: relative;
     text-align: center;
     top: 40%;
     width: 80%
