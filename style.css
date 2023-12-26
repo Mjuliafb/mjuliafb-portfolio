@@ -198,6 +198,10 @@ figure img {
     font-family: "Montserrat", sans-serif;
 }
 
+.footer-heart {
+    font-size:x-small;
+}
+
 .footer-heart a {
 
     border-bottom: 1px solid #453886;
